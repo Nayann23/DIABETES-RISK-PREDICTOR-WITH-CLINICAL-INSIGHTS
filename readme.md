@@ -1,4 +1,4 @@
-````
+
 # DIABETES RISK PREDICTOR WITH CLINICAL INSIGHTS
 
 **DIABETES RISK PREDICTOR WITH CLINICAL INSIGHTS** is an interactive Streamlit app that predicts the risk of diabetes using both numeric health metrics and clinical notes. It provides users with a prediction and the probability of developing diabetes, making it a useful tool for early risk assessment.
@@ -19,7 +19,6 @@
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/DIABETES-RISK-PREDICTOR-WITH-CLINICAL-INSIGHTS.git](https://github.com/your-username/DIABETES-RISK-PREDICTOR-WITH-CLINICAL-INSIGHTS.git)
-````
 
 2.  Navigate into the project directory:
     ```bash
@@ -71,4 +70,5 @@ Contributions are welcome\! Open issues or submit pull requests to improve the a
 This project is licensed under the MIT License.
 
 ```
+
 ```
