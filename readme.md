@@ -59,16 +59,4 @@ Click **Predict** to see the diabetes risk prediction and probability.
 
 -----
 
-## Contributing
 
-Contributions are welcome\! Open issues or submit pull requests to improve the app.
-
------
-
-## License
-
-This project is licensed under the MIT License.
-
-```
-
-```
