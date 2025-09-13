@@ -18,7 +18,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/DIABETES-RISK-PREDICTOR-WITH-CLINICAL-INSIGHTS.git](https://github.com/your-username/DIABETES-RISK-PREDICTOR-WITH-CLINICAL-INSIGHTS.git)
+   git clone [https://github.com/Nayann23/DIABETES-RISK-PREDICTOR-WITH-CLINICAL-INSIGHTS.git](https://github.com/Nayann23/DIABETES-RISK-PREDICTOR-WITH-CLINICAL-INSIGHTS.git)
 
 2.  Navigate into the project directory:
     ```bash
@@ -58,5 +58,6 @@ Click **Predict** to see the diabetes risk prediction and probability.
   - Numeric and text features are combined for final prediction
 
 -----
+
 
 
