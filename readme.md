@@ -5,7 +5,11 @@ This project is a **Diabetes Risk Predictor** web application developed using **
 
 ---
 
-Download rf_model.pkl here: ```https://drive.google.com/file/d/1RQHWS73rzflpqD2SKBbEgPAkXws5ZSIk/view?usp=drive_link```
+Download rf_model.pkl here: 
+
+```https://drive.google.com/file/d/1RQHWS73rzflpqD2SKBbEgPAkXws5ZSIk/view?usp=drive_link```
+
+---
 
 ## Setup
 1. Navigate to the project directory
@@ -61,3 +65,4 @@ Output: Provides a clear probability score along with the prediction (diabetic/n
 5. Added brief explanation of model workflow and feature handling.
 
 ---
+
